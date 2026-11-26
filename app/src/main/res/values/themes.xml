@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.QuranAudioApp" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#0B2420</item>
+        <item name="colorPrimaryDark">#061815</item>
+        <item name="colorAccent">#D9AD5B</item>
+        <item name="android:statusBarColor">#061815</item>
+    </style>
+</resources>

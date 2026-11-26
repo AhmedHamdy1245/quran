@@ -1,0 +1,1 @@
+-keepclassmembers class com.quranaudio.sudais.minshawi.MainActivity$AudioBridge { *; }
